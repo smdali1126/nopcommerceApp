@@ -1,0 +1,184 @@
+10/09/2020 05:44:22 PM: INFO: ++++++++++ Test+001_Login +++++++++
+10/09/2020 05:44:22 PM: INFO: ++++++++++ Verifying Home Page Title +++++++++
+10/09/2020 05:44:28 PM: INFO: ++++++++++ Home Page Title is Passed +++++++++
+10/09/2020 05:44:31 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 05:44:42 PM: INFO: ++++++++++ Login Test is Passed +++++++++
+10/09/2020 06:04:04 PM: INFO: ++++++++++ Test+001_Login +++++++++
+10/09/2020 06:04:04 PM: INFO: ++++++++++ Verifying Home Page Title +++++++++
+10/09/2020 06:04:09 PM: INFO: ++++++++++ Home Page Title is Passed +++++++++
+10/09/2020 06:04:12 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 06:04:21 PM: INFO: ++++++++++ Login Test is Passed +++++++++
+10/09/2020 06:08:11 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 06:08:31 PM: INFO: ++++++++++ Login Test is Passed +++++++++
+10/09/2020 06:09:27 PM: INFO: ++++++++++ Test+001_Login +++++++++
+10/09/2020 06:09:27 PM: INFO: ++++++++++ Verifying Home Page Title +++++++++
+10/09/2020 06:09:36 PM: INFO: ++++++++++ Home Page Title is Passed +++++++++
+10/09/2020 06:09:42 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 06:09:58 PM: INFO: ++++++++++ Login Test is Passed +++++++++
+10/09/2020 06:15:55 PM: INFO: ++++++++++ Test+001_Login +++++++++
+10/09/2020 06:15:55 PM: INFO: ++++++++++ Verifying Home Page Title +++++++++
+10/09/2020 06:20:58 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 06:41:26 PM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/09/2020 06:41:26 PM: INFO: ++++++++++ Test+001_Login +++++++++
+10/09/2020 06:41:26 PM: INFO: ++++++++++ Verifying Home Page Title +++++++++
+10/09/2020 06:41:29 PM: INFO: ++++++++++ Home Page Title is Passed +++++++++
+10/09/2020 06:41:38 PM: INFO: ++++++++++ Login Test is Passed +++++++++
+10/10/2020 04:29:45 PM: INFO: ************** Test_002_DDT_Login ***************
+10/10/2020 04:29:45 PM: INFO: ************** Verifying Login DDT Test **************
+10/10/2020 04:37:46 PM: INFO: ************** Test_002_DDT_Login ***************
+10/10/2020 04:37:46 PM: INFO: ************** Verifying Login DDT Test **************
+10/10/2020 04:38:06 PM: INFO: ***** Passed
+10/10/2020 04:38:14 PM: INFO: ***** Passed *****
+10/10/2020 04:38:25 PM: INFO: ***** Passed
+10/10/2020 04:38:33 PM: INFO: ***** Passed *****
+10/10/2020 04:38:33 PM: INFO: ***** Login DDT test passed *****
+10/10/2020 04:38:33 PM: INFO: ***** End of Login DDT Test *****
+10/10/2020 04:38:33 PM: INFO: ***** Completed Test_002_DDT_Login *****
+10/10/2020 04:46:33 PM: INFO: ************** Test_002_DDT_Login ***************
+10/10/2020 04:46:33 PM: INFO: ************** Verifying Login DDT Test **************
+10/10/2020 04:53:41 PM: INFO: ************** Test_002_DDT_Login ***************
+10/10/2020 04:53:41 PM: INFO: ************** Verifying Login DDT Test **************
+10/10/2020 04:54:00 PM: INFO: ***** Passed
+10/10/2020 04:54:08 PM: INFO: ***** Passed *****
+10/10/2020 04:54:16 PM: INFO: ***** Passed
+10/10/2020 04:54:24 PM: INFO: ***** Passed *****
+10/10/2020 04:54:24 PM: INFO: ***** Login DDT test passed *****
+10/10/2020 04:54:24 PM: INFO: ***** End of Login DDT Test *****
+10/10/2020 04:54:24 PM: INFO: ***** Completed Test_002_DDT_Login *****
+10/10/2020 10:14:24 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:14:41 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:14:41 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:14:47 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:24:11 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:24:28 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:24:28 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:24:32 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:28:04 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:28:22 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:28:22 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:28:28 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:35:52 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:36:09 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:36:09 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:37:10 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:37:29 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:37:29 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:37:34 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:42:40 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:43:00 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:43:00 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:43:07 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:47:12 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:47:30 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:47:30 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:47:34 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 10:57:23 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:57:42 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:57:42 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:58:06 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 10:58:21 PM: INFO: ***** Login Successfully *****
+10/10/2020 10:58:21 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 10:58:26 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:04:40 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:04:57 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:04:57 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:05:19 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:05:33 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:05:33 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:05:38 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:16:07 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:16:23 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:16:23 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:16:30 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:19:56 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:20:18 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:20:18 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:20:36 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:20:50 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:20:50 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:21:59 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:22:13 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:22:13 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:22:21 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:25:18 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:25:29 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:25:29 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:25:37 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:26:32 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:26:47 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:26:47 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:26:55 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:27:07 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:27:07 PM: INFO: ***** Add Customer Validation Details *****
+10/10/2020 11:29:52 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:30:04 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:30:04 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:30:12 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:30:22 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:30:22 PM: INFO: ***** Add Customer Validation Details *****
+10/10/2020 11:30:51 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:31:09 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:31:09 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:31:16 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:37:24 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:37:40 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:37:40 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:37:50 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:38:40 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:38:52 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:38:52 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:39:00 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:39:11 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:39:11 PM: INFO: ***** Add Customer Validation Details *****
+10/10/2020 11:45:07 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:45:23 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:45:23 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:45:32 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:45:45 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:45:45 PM: INFO: ***** Add Customer Validation Details *****
+10/10/2020 11:46:46 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:46:59 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:46:59 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:47:06 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:48:55 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:49:11 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:49:11 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:49:18 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:49:31 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:49:31 PM: INFO: ***** Add Customer Validation Details *****
+10/10/2020 11:57:57 PM: INFO: ******* Test_003_AddCustomer *****
+10/10/2020 11:58:11 PM: INFO: ***** Login Successfully *****
+10/10/2020 11:58:11 PM: INFO: ***** Starting Add Customer Test *****
+10/10/2020 11:58:19 PM: INFO: ***** Providing Customer Details *****
+10/10/2020 11:58:29 PM: INFO: ***** Saving Customer Details *****
+10/10/2020 11:58:29 PM: INFO: ***** Add Customer Validation Details *****
+10/11/2020 12:01:37 AM: INFO: ******* Test_003_AddCustomer *****
+10/11/2020 12:01:49 AM: INFO: ***** Login Successfully *****
+10/11/2020 12:01:49 AM: INFO: ***** Starting Add Customer Test *****
+10/11/2020 12:01:56 AM: INFO: ***** Providing Customer Details *****
+10/11/2020 12:02:06 AM: INFO: ***** Saving Customer Details *****
+10/11/2020 12:02:06 AM: INFO: ***** Add Customer Validation Details *****
+10/11/2020 01:07:58 AM: INFO: ******* searchCustomerByEmail_004 *****
+10/11/2020 01:08:12 AM: INFO: ***** Login Successfully *****
+10/11/2020 01:08:12 AM: INFO: ***** Starting Add Customer Test *****
+10/11/2020 01:08:17 AM: INFO: ***** searching customer by email *****
+10/11/2020 01:11:15 AM: INFO: ******* searchCustomerByEmail_004 *****
+10/11/2020 01:11:27 AM: INFO: ***** Login Successfully *****
+10/11/2020 01:11:27 AM: INFO: ***** Starting Add Customer Test *****
+10/11/2020 01:11:31 AM: INFO: ***** searching customer by email *****
+10/11/2020 01:18:28 AM: INFO: ******* ssearchCustomerByName_005 *****
+10/11/2020 01:18:40 AM: INFO: ***** Login Successfully *****
+10/11/2020 01:18:40 AM: INFO: ***** Starting Search Custome by Name *****
+10/11/2020 01:18:47 AM: INFO: ***** searching customer by Name *****
+10/11/2020 01:20:08 AM: INFO: ******* ssearchCustomerByName_005 *****
+10/11/2020 01:20:22 AM: INFO: ***** Login Successfully *****
+10/11/2020 01:20:22 AM: INFO: ***** Starting Search Custome by Name *****
+10/11/2020 01:20:29 AM: INFO: ***** searching customer by Name *****
+10/11/2020 01:38:16 AM: INFO: ******* Test_003_AddCustomer *****
+10/11/2020 01:38:28 AM: INFO: ***** Login Successfully *****
+10/11/2020 01:38:28 AM: INFO: ***** Starting Add Customer Test *****
+10/11/2020 01:38:36 AM: INFO: ***** Providing Customer Details *****
+10/11/2020 01:38:48 AM: INFO: ***** Saving Customer Details *****
+10/11/2020 01:38:48 AM: INFO: ***** Add Customer Validation Details *****
+10/11/2020 01:38:53 AM: INFO: ++++++++++ Verifying Login Test +++++++++
+10/11/2020 01:39:04 AM: INFO: ++++++++++ Login Test is Passed +++++++++
